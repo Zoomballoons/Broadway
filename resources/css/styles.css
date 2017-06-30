@@ -1,1 +1,43 @@
-<!--this is a styles file-->
+.toptitle{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.titlesub{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+.processtitle{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight:bold;
+}
+.processsub{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight:bold;
+}
+.processdetail{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+.banner{
+font-family: Helvetica;
+font-size: 23px;
+font-weight: bold;
+color: white;
+}
+.botbanner{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+.Botbannerspan{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
