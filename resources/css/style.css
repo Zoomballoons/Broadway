@@ -1,0 +1,76 @@
+
+
+
+a:link{
+  color: white;
+}
+a:visited{
+  color: white;
+}
+.imagecenter{
+  text-align: center;
+}
+
+.toptitle {
+
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.titlebkgrd{
+    text-align: center;
+  background-size: cover;
+background-position: center;
+background-image: url(../../resources/images/the-flatiron-building.png);
+}
+.titlesub {
+    text-align: center;
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+.processtitle {
+    text-align: center;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;}
+ .processsub {
+     text-align: center;
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+.processdetail {
+    text-align: center;
+  font-family: Helvetica;
+  font-size: 14px;
+}
+.banner {
+    text-align: center;
+    background-position: center;
+  background-image: url(../../resources/images/the-flatiron-building.png);
+font-family: Helvetica;
+font-size: 23px;
+font-weight: bold;
+color: white;
+
+}
+.botbanner{
+    text-align: center;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+.Botbannerspan {
+    text-align: left;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+.smallfont{
+  font-size: 11px;
+}
